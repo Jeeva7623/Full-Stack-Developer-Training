@@ -82,4 +82,6 @@ x = s.map((e,count)=> {
 })
 console.log(x)
 
+//5. Write a function that takes an array of objects with a category property and returns an object where the keys are the categories, and the values are arrays of objects with that category. Use 
+
 
